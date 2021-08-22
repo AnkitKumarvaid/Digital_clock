@@ -1,2 +1,2 @@
 # Digital_clock
-this is a digital clock made using python
+this is a digital clock made by using python
